@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEsDuA/j+1B/1CT5aeB6M2BCaIyahiFq4l+Aq85t6IKOmjtnOg613/5FaDN099y52DeLgKizhKaAD2SOXHvQFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhagya\\source\\repos\\sockettestlast\\sockettestlast\\sockettestlast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhagya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\bhagya\\.nuget\\packages\\websocketsharp-nonprerelease\\1.0.0\\websocketsharp-nonprerelease.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp-NonPreRelease 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp-NonPreRelease",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
